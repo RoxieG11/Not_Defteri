@@ -1,3 +1,5 @@
+# Geliştirici: Roxie
+# GitHub: https://github.com/RoxieG11/
 import os
 # FONKSYONLAR
 def menu():
