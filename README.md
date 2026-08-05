@@ -11,13 +11,15 @@ Bu proje, Python öğrenme sürecimde geliştirdiğim ilk terminal uygulamaları
 - 📋 Kayıtlı notları listeleme
 - 🗑️ Not silme
 - ✏️ Not ismini değiştirme
-- ⚠️ Hatalı kullanıcı girişlerini kontrol etme
+- ⭐ Favorilere not ekleme
+- ❌ Favorilerden not çıkartma
 
 ## 📁 Proje Yapısı
 
 ```
 ROXIE-Not-Defteri/
 ├── main.py
+├── favoriler.txt
 ├── Notlar/
 │   ├── kek_tarifi
 │   ├── yapılacaklar
